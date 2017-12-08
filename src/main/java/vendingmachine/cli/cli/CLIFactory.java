@@ -1,4 +1,4 @@
-package interaction.cli;
+package vendingmachine.cli.cli;
 
 public class CLIFactory {
 

@@ -1,6 +1,6 @@
-package interaction.cli;
+package vendingmachine.cli.cli;
 
-import vendingmachine.item.Item;
+import vendingmachine.core.item.Item;
 
 import java.util.Collection;
 import java.util.LinkedList;

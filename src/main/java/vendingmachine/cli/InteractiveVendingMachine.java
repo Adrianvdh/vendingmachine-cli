@@ -1,10 +1,10 @@
-package interaction;
+package vendingmachine.cli;
 
-import interaction.cli.CLI;
-import interaction.cli.CLIFactory;
+import vendingmachine.cli.cli.CLI;
+import vendingmachine.cli.cli.CLIFactory;
 import org.beryx.textio.InputReader;
-import vendingmachine.VendingMachine;
-import vendingmachine.item.Item;
+import vendingmachine.core.VendingMachine;
+import vendingmachine.core.item.Item;
 
 import java.text.DecimalFormat;
 import java.util.Collection;
