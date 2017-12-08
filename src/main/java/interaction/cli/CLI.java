@@ -1,4 +1,4 @@
-package cli;
+package interaction.cli;
 
 import vendingmachine.item.Item;
 

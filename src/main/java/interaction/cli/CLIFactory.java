@@ -1,4 +1,4 @@
-package cli;
+package interaction.cli;
 
 public class CLIFactory {
 
